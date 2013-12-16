@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GP3Project.Camera">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GP3Project.Camera.CameraMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Camera.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAACAAAAAAIAAAIgAABAAAAAAAACAAAAAAAgA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GP3Project.Game1">
+    <Position X="2.5" Y="0.5" Width="3.75" />
+    <NestedTypes>
+      <Enum Name="GP3Project.Game1.GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>VCRIGlEyAgxBA6EACFBKBQGGGAAAAbgAAiwgQDBYASw=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GP3Project.GameConstants">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAABAAAAIAAAAAAAAABAAgAEMAACAAAAAAI=</HashCode>
+      <FileName>GameConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GP3Project.Program">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GP3Project.Sheep">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAAAAAAIBAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sheep.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
